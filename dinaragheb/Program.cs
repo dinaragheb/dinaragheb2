@@ -1,6 +1,7 @@
 ﻿Console.Write("Geben Sie eine ganze Zahl ein: ");
 int n = int.Parse(Console.ReadLine());
 Console.WriteLine("ändern");
+Console.WriteLine("ändern2");
 // Überprüfen, ob die Zahl positiv, negativ oder null ist
 if (n > 0)
 {
